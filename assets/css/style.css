@@ -1,50 +1,44 @@
 body{
 
-    background-color: beige;
+    background-image: url(http://longwallpapers.com/Desktop-Wallpaper/retro-game-background-For-Desktop-Wallpaper.jpg);
 }
-
-#image{
-    width: 0 auto;
-    height: 0 auto;
-}
-
 
 h1{
-    font-family: cursive;
-    font-size:25px;
+    font-family: 'Monoton', cursive;
+    font-size:45px;
     text-align: center;
     padding: 20px;
-    color: #4a4a4a;
+    color: black;
 }
 
 h2{
-    font-family: cursive;
+    font-family: 'Monoton', cursive;
     font-size: 20px;
     text-align: center;
-    padding:20px;
+    padding:10px;
 }
 .wins{
-    font-family: cursive;
+    font-family: 'Monoton', cursive;
     font-size:20px;
     text-align: center;
-    padding:20px;
+    padding:10px;
 }
 
 .losses{
-    font-family: cursive;
+    font-family: 'Monoton', cursive;
     font-size:20px;
     text-align: center;
-    padding:20px;
+    padding:10px;
 }
 .guessesCounter{
-    font-family: cursive;
+    font-family: 'Monoton', cursive;
     font-size:20px;
     text-align: center;
-    padding:20px;
+    padding:10px;
 }
 .lettersList{
-    font-family: cursive;
+    font-family: 'Monoton', cursive;
     font-size:20px;
     text-align: center;
-    padding:20px;
+    padding:10px;
 }
